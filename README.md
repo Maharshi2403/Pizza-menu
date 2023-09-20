@@ -1,2 +1,2 @@
 # Pizza-menu
-Using JSX and React.js, actractive pizza menu created.
+Using JSX and React.js, attractive pizza menu created.
